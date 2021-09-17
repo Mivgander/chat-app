@@ -52,12 +52,12 @@ class UserFactory extends Factory
     private function losujZdjecie()
     {
         return Collection::make([
-            'feelsbirthdayman.jpg',
-            'FKsErDb0ZFYhZ26T1KiYXjNHcjHEnd1GcFJVZv03.jpg',
-            'haha.jpg',
-            'martigitara.JPG',
-            'nTS44RB34OWlbtLEUAMfn3fjJiC2pBdsKgK3pLGr.jpg',
-            'peeposhy.png'
+            'depositphotos_6151014-stock-photo-african-american-man-portrait.jpg',
+            'distressed-businessman-stretch-out-hands-to-strangle-annoying-person-standing-annoyed-frustrated-against-white-background-210563946.jpg',
+            'istockphoto-1151469300-1024x1024.jpg',
+            'person-stock-2.png',
+            'stock-photo-thinking-young-person-person-thinking-think-176937.jpg',
+            'what-your-favorite-stock-photo-spaghetti-person-s-2-7471-1432142821-2_dblbig.jpg'
         ])->random();
     }
 }
