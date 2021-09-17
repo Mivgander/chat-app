@@ -1,0 +1,33 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Font-Awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+
+
+.bg-gray-200
+{
+    background-color: $gray-200;
+}
+
+.bg-blue-500
+{
+    background-color: $cyan;
+}
+
+.bg-red-300
+{
+    background-color: $red-300;
+}
+
+.bg-green-300
+{
+    background-color: $green-300;
+}
